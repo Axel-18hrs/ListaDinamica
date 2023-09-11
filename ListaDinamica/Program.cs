@@ -97,7 +97,7 @@ namespace ListaDinamica
                             {
                                 foreach (int elemento in lista)
                                 {
-                                    Console.WriteLine("Elemento de la lista enlazada: " + elemento);
+                                    Console.WriteLine("Element of LinkedList: " + elemento);
                                 }
                             }
                             else
